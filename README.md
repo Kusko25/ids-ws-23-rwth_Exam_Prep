@@ -1,3 +1,5 @@
+Prerequisites: It should work with the environment the lecture used.
+
 I used these notebooks to work through the first practice exam, mainly to aid understanding and check my answers.  
 I recommend not running the cells before you tried to solve the task with paper and calculator first, but I'm not your mother so do as you please.
 
