@@ -3,3 +3,5 @@ I recommend not running the cells before you tried to solve the task with paper 
 
 I take no responsibility for the accuracy of my solutions and in fact if you think I'm wrong please let me know.  
 The repository contains none of the actual exam material so if you are from the uni I'm pretty sure this is legal
+
+Feel free to use issues for discussion, that works sort of like a forum.
