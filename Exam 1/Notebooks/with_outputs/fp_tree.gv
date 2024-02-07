@@ -1,0 +1,30 @@
+// FP Tree
+digraph {
+	"" [label=" (14)"]
+	A [label="A (10)"]
+	"" -> A
+	B [label="B (9)"]
+	"" -> B
+	C [label="C (4)"]
+	"" -> C
+	D [label="D (3)"]
+	"" -> D
+	E [label="E (3)"]
+	"" -> E
+	AB [label="AB (5)"]
+	A -> AB
+	AC [label="AC (4)"]
+	A -> AC
+	AD [label="AD (3)"]
+	A -> AD
+	BC [label="BC (4)"]
+	A -> BC
+	BD [label="BD (3)"]
+	A -> BD
+	BE [label="BE (3)"]
+	A -> BE
+	ABC [label="ABC (4)"]
+	AB -> ABC
+	ABD [label="ABD (3)"]
+	AB -> ABD
+}
